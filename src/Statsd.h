@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 #include <IPAddress.h>
-#include <Udp.h>
+#include <BridgeUdp.h>
 
 #define TAG_STYLE_DATADOG 1
 #define TAG_STYLE_TELEGRAF 2
